@@ -1,0 +1,7 @@
+D:\12NET\Workspace\Code\XF.Hello\XF.Hello\XF.Hello\obj\Debug\netstandard2.0\XF.Hello.csproj.CoreCompileInputs.cache
+D:\12NET\Workspace\Code\XF.Hello\XF.Hello\XF.Hello\obj\Debug\netstandard2.0\XF.Hello.App.xaml.g.cs
+D:\12NET\Workspace\Code\XF.Hello\XF.Hello\XF.Hello\obj\Debug\netstandard2.0\XF.Hello.ConfigPage.xaml.g.cs
+D:\12NET\Workspace\Code\XF.Hello\XF.Hello\XF.Hello\obj\Debug\netstandard2.0\XF.Hello.CursoPage.xaml.g.cs
+D:\12NET\Workspace\Code\XF.Hello\XF.Hello\XF.Hello\obj\Debug\netstandard2.0\XF.Hello.DataBindingPage.xaml.g.cs
+D:\12NET\Workspace\Code\XF.Hello\XF.Hello\XF.Hello\obj\Debug\netstandard2.0\XF.Hello.HomePage.xaml.g.cs
+D:\12NET\Workspace\Code\XF.Hello\XF.Hello\XF.Hello\obj\Debug\netstandard2.0\XF.Hello.MainPage.xaml.g.cs
